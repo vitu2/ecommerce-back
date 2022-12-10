@@ -620,11 +620,6 @@ unpipe@1.0.0, unpipe@~1.0.0:
   resolved "https://registry.yarnpkg.com/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
   integrity sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==
 
-use-reducer-logger@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/use-reducer-logger/-/use-reducer-logger-1.0.2.tgz#84b3531ebf269841b9c082fcbf154cb12516922e"
-  integrity sha512-i0SQtRrWqbgQ07V0Ty1Eznh9k37LCTp3eaSIAMLTdd6+mg3teREHMf10lk9cf5OzzT+woP0XS8E1FC4+hxcrJQ==
-
 utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
