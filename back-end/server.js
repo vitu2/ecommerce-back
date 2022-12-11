@@ -7,7 +7,8 @@ app.use(cors())
 
 app.get('/api/products', (req, res) => {
     res.send(data.products)
-})
+}
+)
 
 app.get('/api/products/slug/:categoryName', (req, res) => {
     const product = data.products.find(x => x.categoryName === req.params.categoryName)
