@@ -2,7 +2,12 @@
   "name": "back-end-teste",
   "version": 2,
   "public": true,
-
+  "builds":[
+    {
+        "src":"/(.*)",
+        "use":"./back-end/server.js"
+    }
+  ],
   "routes": [
     {
       "src": "/(.*)",
